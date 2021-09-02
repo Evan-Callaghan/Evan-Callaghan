@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evan Callaghan
+- 👋 Hi, I’m @Evan-Callaghan
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning statistical/machine learning, sports analytics, software development, and AWS
 - 📫 Reach me at callaghan.evan@gmail.com
