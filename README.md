@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-Callaghan
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning statistical/machine learning, sports analytics, software development, and AWS
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning statistical/machine learning, sports analytics, software development, and AWS SageMaker
 - 📫 Reach me at callaghan.evan@gmail.com
 
 <!---
