@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Evan-Callaghan
+- 👋 Hi, I’m @Evan-Callaghan 
 - I’m currently learning predictive analytics, machine learning, sports analytics, and AWS SageMaker
 - Reach me at callaghan.evan@gmail.com
 
