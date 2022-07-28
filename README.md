@@ -7,4 +7,4 @@ Evan-Callaghan/Evan-Callaghan is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=oscarm524&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Evan-Callaghan&count_private=true&theme=tokyonight&showicons=true)]()
