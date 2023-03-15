@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Evan-Callaghan 
-- I'm currently learning about neural networks and predictive analytics in sports.
+- I'm currently learning about neural networks and predictive analytics in sports
