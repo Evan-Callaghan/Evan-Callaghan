@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Evan-Callaghan 
 - I'm a master's student at Queen's University in Kingston, Ontario
-- I'm currently learning about time series, neural networks and data imputation techniques
+- I'm currently learning about time series data, neural networks and data imputation techniques
